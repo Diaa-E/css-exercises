@@ -54,6 +54,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+<<<<<<< HEAD
   color: white;
 
   display: flex;
@@ -61,6 +62,9 @@ body {
   align-items: center;
   flex: 0 0 auto;;
   padding: 16px;
+=======
+  box-sizing: border-box;
+>>>>>>> upstream/main
 }
 
 .card {
